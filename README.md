@@ -18,3 +18,6 @@ In the function Update Value() , user has to pass the value that he or she wants
 In the function Get Prefix Sum() , user has to pass the index position and the function will return the sum of all the preceding values including the value of the current index position input by the user.
 
 In the fucntion Get Sum Of Range() , user has to define the staring and ending index and then the function will return the sum of the value that lies between this range.
+
+
+                       THE GUI OF THIS PROJECT HAS BEEN BUILT ON PYQT5 
